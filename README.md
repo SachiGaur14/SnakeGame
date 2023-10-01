@@ -1,7 +1,6 @@
 # Snake Game
 
 ![Snake Game Screenshot](game_screenshot.png)
-![Game Over Screenshot](game_screenshot(2).png)
 
 ## Overview
 
