@@ -1,6 +1,8 @@
 # Snake Game
 
-![Snake Game Screenshot](game_screenshot.png)
+![snakeGame](https://github.com/SachiGaur14/SnakeGame/assets/140531740/8eb8ab83-1e5f-4f4f-adc6-386ce2871f8f)
+![gameOver](https://github.com/SachiGaur14/SnakeGame/assets/140531740/4c1c5376-a496-46d2-a980-771421dc2b35)
+
 
 ## Overview
 
